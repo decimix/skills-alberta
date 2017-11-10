@@ -1,0 +1,6 @@
+#product img {
+	display: block;
+	box-shadow: 0 0 10px black;
+	margin: 40px auto;
+	cursor: pointer;
+}
